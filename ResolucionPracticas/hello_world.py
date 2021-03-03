@@ -1,0 +1,1 @@
+print('Hello world','hola mundo','otra cadena',sep='---',end='**')
